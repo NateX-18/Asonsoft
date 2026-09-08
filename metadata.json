@@ -1,0 +1,6 @@
+{
+  "name": "VibeSpark",
+  "description": "Interactive social media and creative collaboration platform for teens with Spark Labs, Reels, and AI Co-pilot Buddy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+/* Light theme button styling optimization */
+.theme-light button,
+.light button,
+[data-theme="light"] button {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  border: 1.5px solid #f97316 !important;
+}
+
+.theme-light button:hover,
+.light button:hover,
+[data-theme="light"] button:hover {
+  background-color: #fff7ed !important;
+  border-color: #ea580c !important;
+}
